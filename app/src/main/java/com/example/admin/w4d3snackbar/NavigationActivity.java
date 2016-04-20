@@ -1,5 +1,6 @@
 package com.example.admin.w4d3snackbar;
 
+import android.content.ClipData;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
