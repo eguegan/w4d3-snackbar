@@ -9,11 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.admin.w4d3snackbar.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:context="com.example.admin.w4d3snackbar.NavigationActivity"
+    tools:showIn="@layout/app_bar_navigation">
 
-    <Button
-        android:onClick="startSecond"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
 </RelativeLayout>
